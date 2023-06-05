@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="row">
             <div className="col-md-12 text-center">
                 <div className="copyright">
-                    <p>© <span>2022</span> <Link to="/"  className="transition">Coincap</Link> All rights reserved.</p>
+                    <p>© <span>2023</span> <Link to="/"  className="transition">Coincap</Link> All rights reserved.</p>
                 </div>
             </div>
         </div>
